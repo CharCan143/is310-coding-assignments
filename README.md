@@ -13,3 +13,8 @@
 3. VS Code
 
 ![VS Code Installation](images/vscode-installation.png)
+
+4. AI Tool/Workflow 
+
+How will you work with AI? What tools if any do you plan to use?
+Claude sometimes to brainstorm and bounce off ideas, but not integrated into the workflow directly like an agenic code tool.
