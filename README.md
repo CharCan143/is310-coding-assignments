@@ -1,20 +1,12 @@
-# Init IS310 Homework
+# IS310 Coding Assignments
+This repository is for coding assignments and in-class coding activities for IS310: Computing in the Humanities.
 
-## Proof of Installation
+**IS310 course website:** https://cultureasdata-uiuc.github.io/is310-spring-2026/
 
-1. Python
+## What is Computing in the Humanities:
+**Computing in the Humanities** is *defined* as the application of computational methods and tools to the study of humanistic questions.
 
-![Python Installation](images/python-installation.png)
-
-2. Git
-
-![Git Installation](images/git-installation.png)
-
-3. VS Code
-
-![VS Code Installation](images/vscode-installation.png)
-
-4. AI Tool/Workflow 
-
-How will you work with AI? What tools if any do you plan to use?
-Claude sometimes to brainstorm and bounce off ideas, but not integrated into the workflow directly like an agenic code tool.
+### Folders:
+- **in-class**: Contains activites we did during lectures
+- **images**: Images for assignments
+- **other folders**: Other coding assignments sorted by their folder name
