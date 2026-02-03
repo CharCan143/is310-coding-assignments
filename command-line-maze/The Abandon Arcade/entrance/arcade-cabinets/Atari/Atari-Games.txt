@@ -1,0 +1,23 @@
+Game                    Publisher       Release year    Hardware units sold
+-----------------------------------------------------------------------------
+Asteroids               Atari           1979            100,000 (until 2001)
+Centipede               Atari           1981            55,988 (until 1991)
+Tempest                 Atari           1981            29,000 (until 1983)
+Asteroids Deluxe        Atari           1981            22,399 (until 1999)
+Missile Command         Atari           1980            19,999 (until 2010)
+Battlezone              Atari           1980            15,122 (until 1999)
+Breakout                Atari           1976            15,000 (until 1981)
+Star Wars               Atari           1983            12,695 (until 1991)
+Space Duel              Atari           1982            12,038 (until 1991)
+Atari Football          Atari           1978            11,306 (until 1999)
+Millipede               Atari           1982            9,990 (until 1991)
+Pong                    Atari           1972            8,500–19,000
+Sprint 2                Atari           1976            8,200 (until 1999)
+Gauntlet                Atari           1985            7,848 (until 1985)
+Lunar Lander            Atari           1979            4,830 (until 1999)
+Marble Madness          Atari           1984            4,000 (until 1985)
+Championship Sprint     Atari           1986            3,595 (until 1991)
+Race Drivin'            Atari           1990            3,525 (until 1991)
+Paperboy                Atari           1984            3,442 (until 1991)
+Hard Drivin'            Atari           1989            3,318 (until 1989)
+Super Sprint            Atari           1986            2,232 (until 1999)

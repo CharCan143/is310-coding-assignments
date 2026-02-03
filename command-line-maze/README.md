@@ -1,7 +1,8 @@
 # **The Old Abandoned Arcade** by **Charles Cantrell**
 
 ## *Goal:*
-Explore and find a  the long lost arcade game Polybius.
+Explore and find an arcade game of legend, Polybius - Long lost and forgotten.
+Navigate the files to find the solution.txt file with your terminal.
 
 ## Relevant Commands:
 - **cd [folderName]** - Change into a directory.

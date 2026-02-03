@@ -1,0 +1,14 @@
+List of popular arcade games
+
+Name		Year	Manufacturer
+---------------------------------------------------------------------
+Centipede	1981 	Atari
+Tempest		1981 	Atari 	
+Frogger		1981 	Konami (Japan) / Sega-Gremlin (North America)
+Scramble	1981 	Konami (Japan) / Stern (North America)
+Gorf		1981 	Midway
+Galaga		1981 	Namco (Japan) / Midway (North America)
+Donkey Kong	1981 	Nintendo
+Vanguard	1981 	SNK (Japan) / Centuri (US)
+Qix		1981 	Taito 	
+Defender	1981 	Williams Electronics 
