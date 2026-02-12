@@ -1,6 +1,6 @@
 # Assignment 1: Inspecting the Cultural Web
 ## Digital Archive:
-- [Console Living Room: Playstation (PSX)](https://archive.org/details/psxgames): A collection under the Console Living Room collection library on Internet Archive.
+- [Moby Games](https://www.mobygames.com/): Database holding a collection of information from varies sources about videogames
 
 ## What Web Technologies Used:
 - **HTML** used for the structure and layout of the page.
@@ -19,16 +19,14 @@ File I didnt recognize:
     ![Screenshot of ICO](image/ICO.png)
 
 ## Who buit this website:
-The website Internet Archive was founded by Brewster Kahle, however it was built by a team of contributors involved with the Internet Archive. When inspecting the webpage, there is no explicitly mentioned individual creator, author, or developer of the website.
-- [Founding and Board of directors](https://archive.org/about/bios)
-- [About Internet Archive](https://archive.org/about/)
-- [Github](https://github.com/internetarchive)
+The website Moby Games was founded and made by **Jim Leonard** & **Brian Hirt**. However it has changed multiple hands since its founding, today it is now owned by **Atari** and developed by **Tracy Poff** & **Paradox**.
+- [Founders and list of all owners/devs](https://www.mobygames.com/info/about/)
 
-However, the particular archival collection I have picked was created by Jason Scott, and maintained by a group of [community members](https://archive.org/details/psxgames?tab=about).
+Website content is crowdsourced, and there is no official github. There is a 3rd party toolset for the site on [github](https://github.com/alexdma/linkedmoby).
     
-![Screenshot of Contributers](image/Contributors.png)
+![Screenshot of Owners and Developers](image/credits.png)
 
 
 ## Website:
-- https://archive.org/details/psxgames
+- https://www.mobygames.com/
 
