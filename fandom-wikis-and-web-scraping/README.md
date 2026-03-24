@@ -4,7 +4,7 @@ robots.txt: https://fallout.fandom.com/robots.txt
 
 page: https://fallout.fandom.com/wiki/Category:Fallout_characters
 
-Content license: CC-BY-SA
+Content license: CC-BY-
 
 ## robots.txt:
 cloudscraper is not blocked or prohibited for this wiki.
