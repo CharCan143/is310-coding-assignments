@@ -1,2 +1,5 @@
 is310-env/
 individual-dataset/
+api-getting-data/older-python-env/
+api-getting-data/install-pyenv-win.ps1
+api-getting-data/.python-version

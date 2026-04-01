@@ -1,0 +1,212 @@
+{
+    "selected_api": "open5e",
+    "open5e_item": {
+        "name": "Adult Black Dragon",
+        "type": "Dragon",
+        "size": "Huge",
+        "alignment": "chaotic evil",
+        "challenge_rating": "14",
+        "hit_points": 195,
+        "armor_class": 19
+    },
+    "europeana_items": [
+        {
+            "id": "/990/item_ERGXQ52WUY47AEROZVC3GTR4SUFPN77A",
+            "title": [
+                "Der Drache verschlingt die Gefährten des Kadmos",
+                "Der Drache zerfleischt die Gefährten des Kadmus",
+                "The Dragon devouring the fellows of Cadmus"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Art Collection of the University Göttingen"
+            ],
+            "country": [
+                "Germany"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-sa/4.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fsammlungen.uni-goettingen.de%2Frest%2Fimage%2Frecord_kuniweb_1316616%2Frecord_kuniweb_1316616_620700.jpg%2Ffull%2Ffull%2F0%2Fdefault.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500195290",
+            "title": [
+                "Dragon / Rose",
+                "Ensemble noir à motif rouge et doré avec robe fourreau à bustier, descendant sous le genou et veste à boutonnage à col relevé et manches longues évasées comme le bas de la veste et gants",
+                "Hiver 1960"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_88278-28.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500181462",
+            "title": [
+                "Dragon",
+                "Hiver 1954"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_87974-14.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500180365",
+            "title": [
+                "Dragon",
+                "Hiver 1953"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_87087-7.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500179856",
+            "title": [
+                "Dragon d'or",
+                "Hiver 1957"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_87107-3.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500106390",
+            "title": [
+                "Habit de divinité infernale inventé par P.N. Sarrazin, costumier",
+                "Robe à panier en cloche à motif d'éclairs sur la jupe, découpes en ailes de dragon, tête de Méduse et serpents sur le corsage, Galerie des modes, 22e cahier, 1779, Fonds d'estampes du XVIIIème siècle"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Faze_galg4535_001.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500065484",
+            "title": [
+                "Dragon"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_86705-4.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500063709",
+            "title": [
+                "Dragon d'Or"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_85836-1.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500062904",
+            "title": [
+                "Dragon"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_83637-19.jpg&type=IMAGE"
+            ]
+        },
+        {
+            "id": "/966/europeana_fashion_500062675",
+            "title": [
+                "Dragon"
+            ],
+            "type": "IMAGE",
+            "dataProvider": [
+                "Palais Galliera - Musée de la Mode de la Ville de Paris"
+            ],
+            "country": [
+                "France"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.parismuseescollections.paris.fr%2Fsites%2Fdefault%2Ffiles%2Fatoms%2Fimages%2FGAL%2Flpdp_83631-7.jpg&type=IMAGE"
+            ]
+        }
+    ]
+}
